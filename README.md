@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ### Usage
 
 ```shell
-python file_organization.py <target_directory> [-c <criteria> ...] [-l <log_file>]
+python file_organization_script.py <target_directory> [-c <criteria> ...] [-l <log_file>]
 ```
 
 - `<target_directory>`: The directory to organize.
