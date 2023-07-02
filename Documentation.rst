@@ -17,7 +17,7 @@ To use the File Organization Script, follow these steps:
 1. Install the required dependencies:
 
    - Python 3.x
-   - `shutil` library
+   - `argparse` library
 
 2. Run the script with the following command:
 
